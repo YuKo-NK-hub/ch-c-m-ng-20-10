@@ -165,3 +165,4 @@ animate_glow()
 hint = canvas.create_text(10, HEIGHT-10, anchor="w", text="Nhấn vào hộp quà 🎁 để nhận lời chúc 💌", font=("Arial", 10), fill="#8c0066")
 
 root.mainloop()
+
